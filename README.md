@@ -1,7 +1,7 @@
 # conversion-arbitrage
 - Analyzing the behavior of Berkshire Hathaway's common stock class A and B to find conversion arbitrage opportunities at times of maximized spreads. 
 
-### Background
+## Background
 
 In 1996 Berkshire Hathaway Inc. issued Class B shares at one-30th of the price of Class A shares. In 2010 a 50-1 stock split diluted the ratio to one-1500th. 
 
@@ -35,6 +35,6 @@ For this use-case, I chose the single back-tested datapoint with the maximal spr
 #### Conversion
 With the assumption of holding 50 stocks of Class A in February 12 2010, at adjusted closing price of $114,000, and the investor able to see a spread in the fair price ratio below 1 of 0.9882965, a conversion from Class A’s price to Class B will output an instant return of 1.18421% if once converted, sold at the price of Class B. Considering the 50 stocks of Class A, with a total equity of $5,700,000, the conversion would dilute the investor but give it the equivalent of 50 Class A stocks multiplied by a factor of 1500 to 75,000 stocks of Class B at the current overpriced price. If the investor sold right away, his or her equity would increase from $5,700,000 to $5,767,500 or a difference of $67,500, which represents the net profit gained from the arbitrage.
 
-### Takeaways
+## Takeaways
 Regardless of the theoretical profit on the conversion, applying this arbitrage in real life bears flaws that makes arbitrage opportunity virtually unfeasible. Class A is market illiquid, a conversion will move significant volume from one class to another, which will make Class B’s price reverse back to their fair price ratio almost immediately, negating the spread between both Class A and Class B scaled prices. 
 
