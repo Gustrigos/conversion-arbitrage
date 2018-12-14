@@ -1,7 +1,7 @@
 # conversion-arbitrage
 - Analyzing the behavior of Berkshire Hathaway's common stock class A and B to find conversion arbitrage opportunities at times of maximized spreads. 
 
-## Background
+#### Background
 
 In 1996 Berkshire Hathaway Inc. issued Class B shares at one-30th of the price of Class A shares. In 2010 a 50-1 stock split diluted the ratio to one-1500th. 
 
