@@ -66,7 +66,7 @@ datama.dropna(how='any', inplace=True)
 
 df["arbitrage_ratio"] = df["BRK_A"]/df["BRK_B_Adj"]
 
-# Visualizing Moving Averages for the S&P Clean Energy Index
+# Visualizing Moving Averages 
 def moving_avs(A=True,B=False):
   
   if A is True:
@@ -129,14 +129,11 @@ def normal(A=True,B=False):
     plt.legend()
     plt.show()
 
-
-
 # moving_avs(B=True)
 
 returns(B=True)
 
 # normal(B=True)
-
 
 # Arbitrage
 
@@ -153,9 +150,6 @@ def arbitrage(A=True):
     plt.show()
 
 arbitrage(A=True)
-
-# Technical Analysis in Arbitrage (Bollinger Bands)
-
 
 
 
