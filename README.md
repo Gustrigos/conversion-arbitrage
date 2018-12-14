@@ -16,7 +16,7 @@ As of May 5th 2018, Class A stock is entitled to one vote per share and Class B 
 #### Convertibility
 Each share of a Class A common stock is convertible at any time, into 1,500 shares of Class B common stock. However, the conversion privilege only applied to Class A shares, which does not extend the ability of Class B shareholders able to convert to Class A. 
 
-# Arbitrage Opportunity
+## Arbitrage Opportunity
 #### Preamble
 Class A and Class B behave similar and should have the same return over time. This is due because Class B was issued (and derived) from Class A. Class A's last dilution made Class B have a price ratio of one-1500th. Therefore, if the adjusted close of Class B is multiplied by a factor of 1,500, it’s real price should be equal to that of Class A at a given date.
 
